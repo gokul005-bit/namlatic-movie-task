@@ -6,7 +6,7 @@ The project focuses on clean UI, smooth animations, and professional frontend pr
 ---
 
 ## 🚀 Live Demo
-(Will be updated after deployment on Vercel)
+https://namlatic-movie-task.vercel.app/
 
 ---
 
